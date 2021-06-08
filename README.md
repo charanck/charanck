@@ -1,6 +1,6 @@
 - 👋 Hi, I’m charan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c#
 
 
 <!---
